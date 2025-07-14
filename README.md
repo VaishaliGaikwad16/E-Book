@@ -79,3 +79,8 @@ Ideal for e-commerce or digital bookstore applications, this interface effective
 
 #OUTPUT-
 
+<img width="1321" height="638" alt="Image" src="https://github.com/user-attachments/assets/a2083287-3fd5-4718-8444-0db17e6beac6" />
+<img width="1335" height="643" alt="Image" src="https://github.com/user-attachments/assets/ababb9e6-b88d-4f4e-b329-dbb5557fb9a2" />
+<img width="1337" height="602" alt="Image" src="https://github.com/user-attachments/assets/7644c77c-fabf-4fc5-85ef-3d87c32fad3a" />
+<img width="1338" height="603" alt="Image" src="https://github.com/user-attachments/assets/5abd7a9c-1825-4a66-a790-78c8b9db7dba" />
+<img width="1257" height="635" alt="Image" src="https://github.com/user-attachments/assets/0d52b7d9-23f5-4621-a6e0-a1bd8b2a2477" />
